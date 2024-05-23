@@ -1,3 +1,4 @@
 vless://8ced8a81-9035-4ed2-bfdd-4643dea2b915@cdnone.geek1ne.info:2083?encryption=none&security=tls&sni=cdnone.geek1ne.info&fp=chrome&type=ws&host=cdnone.geek1ne.info&path=%2F%3Fed%3D51319#1vl-ws
 vless://8ced8a81-9035-4ed2-bfdd-4643dea2b915@cdntwo.geek1ne.info:2083?encryption=none&security=tls&sni=cdntwo.geek1ne.info&fp=chrome&type=ws&host=cdntwo.geek1ne.info&path=%2F%3Fed%3D51319#2vl-ws
 vless://8ced8a81-9035-4ed2-bfdd-4643dea2b915@cdnthree.geek1ne.info:2083?encryption=none&security=tls&sni=cdnthree.geek1ne.info&fp=chrome&type=ws&host=cdnthree.geek1ne.info&path=%2F%3Fed%3D51319#3vl-ws
+vless://a5f4add9-d59b-48c9-9c4d-f50b5138d64c@netherlan.cdn1.geek1ne.info:23993?encryption=none&security=none&type=quic&headerType=none&quicSecurity=none&key=Lacxl8lVow#a3hzovar
